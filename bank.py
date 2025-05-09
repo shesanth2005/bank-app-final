@@ -1,5 +1,5 @@
 '''This mini banking app contains one admin, Admin username is admin and password admin123'''
-'''I used function such as get_valid_amouny(x),get_valid_amouny(y) and get_valid_account_number() for input validation'''
+'''I used function such as get_valid_amount(x),get_valid_amount(y) and get_valid_account_number() for input validation'''
 '''I used files for store customers logins,customers details,account details,accounts transactions and accounts balances'''
 
 #--------Input Validation-----------------
